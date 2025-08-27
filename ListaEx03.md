@@ -19,7 +19,7 @@ class Program
 
     static void Main()
     {
-        double[] numeros = { 7.9, -5.9, 10.0, 0.0, -8.3, 9.9 };
+        double[] numeros = { 7.9, -5.9, 0.0, -8.3, 9.9 };
 
         Console.WriteLine("Vetor:");
         foreach (double num in numeros)
